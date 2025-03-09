@@ -28,7 +28,7 @@ def snowpark_basic_auth() -> Session:
     connection_parameters = {
        "ACCOUNT":"UIURPRD-VO00041",
        "region":"ap-southeast-1",
-        "USER":"isagi123",
+        "USER":"ISAGI123",
         "PASSWORD":"Isagi78901yoichi",
         "ROLE":"SYSADMIN",
         "DATABASE":"dev_db",
